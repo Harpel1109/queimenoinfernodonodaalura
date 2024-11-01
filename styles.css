@@ -1,0 +1,33 @@
+body {
+    color: black;
+    font-size: 16px;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px wheat;
+    padding: 20px;
+    font-size: 32px;
+    color: wheat;
+    font-family: "Fredericka the Great", serif;
+}
+
+section {
+    background: wheat;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    .lilita-one-regular {
+        font-family: "Lilita One", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+
+.chamada-texto {
+    margin-right: 5%;
+    font-family: "Chakra Petch", sans-serif;
+}
